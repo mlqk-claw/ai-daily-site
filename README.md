@@ -30,8 +30,8 @@
 
 ```bash
 # 如果从本仓库克隆
-git clone git@github.com:yourusername/daily-site.git
-cd daily-site
+git clone git@github.com:mlqk-claw/ai-daily-site.git
+cd ai-daily-site
 npm install
 
 # 或初始化新项目
